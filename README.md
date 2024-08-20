@@ -4,14 +4,12 @@
 [![Dev.to][dev.to-shield]][dev.to-url]
 [![Discord][discord-shield]][discord-url]
 
-I'm a 19-year-old software developer with expertise in the PHP and JS realms, including:
+I'm a 19-year-old software developer with expertise in the JS realm, including:
 
-- Laravel
-- WooCommerce and WordPress
-- Magento 1 and 2
 - NodeJS
 - React, Relay, Next.js
 - MongoDB
+- Tailwind
 
 Inspired by Richard Feynman's philosophy of "What I cannot create, I do not understand," I enjoy recreating technologies from scratch as a hobby, delving into their inner workings to gain a deeper understanding.
 
