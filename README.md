@@ -12,6 +12,7 @@ I'm a 19-year-old software developer with expertise in the PHP and JS realms, in
 - NodeJS
 - React, Relay, Next.js
 - MongoDB
+- NextUI, MUI
 
 Inspired by Richard Feynman's philosophy of "What I cannot create, I do not understand," I enjoy recreating technologies from scratch as a hobby, delving into their inner workings to gain a deeper understanding.
 
