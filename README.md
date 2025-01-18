@@ -4,8 +4,6 @@
 [![Dev.to][dev.to-shield]][dev.to-url]
 [![Discord][discord-shield]][discord-url]
 
-<img src="https://ssr-contributions-svg.vercel.app/_/criskell?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=2&animation=wave&animation_duration=3.5&animation_delay=0.13&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=14_0&format=svg&weeks=30&theme=dark_green" alt="Contributions chart in 3D" />
-
 I'm a 19-year-old software developer with expertise in the PHP and JS realms, including:
 
 - Laravel
@@ -26,6 +24,8 @@ My goal is to make significant contributions through code and writing, benefitin
 [dev.to-url]: https://dev.to/criskell
 [discord-shield]: https://img.shields.io/badge/-criskell-black.svg?style=flat-square&logo=discord&logoColor=white&colorB=5865F2
 [discord-url]: https://discord.com/users/932741852514369607
+
+<img src="https://ssr-contributions-svg.vercel.app/_/criskell?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=2&animation=wave&animation_duration=3.5&animation_delay=0.13&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=14_0&format=svg&weeks=30&theme=dark_green" alt="Contributions chart in 3D" />
 
 <!--
 <span>
