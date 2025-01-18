@@ -25,7 +25,11 @@ My goal is to make significant contributions through code and writing, benefitin
 [discord-shield]: https://img.shields.io/badge/-criskell-black.svg?style=flat-square&logo=discord&logoColor=white&colorB=5865F2
 [discord-url]: https://discord.com/users/932741852514369607
 
+<!--
 <span>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=criskell&hide=html&layout=donut-vertical&theme=tokyonight" alt="Top languages" align="top">
   <img src="https://github-readme-stats.vercel.app/api?username=criskell&show_icons=true&theme=tokyonight" alt="GitHub stats" align="top">
 </span>
+-->
+
+<img src="https://ssr-contributions-svg.vercel.app/_/criskell?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=3&animation_delay=0.03&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=19_3&format=svg&weeks=40" alt="Contributions chart in 3D" />
