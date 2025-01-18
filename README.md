@@ -4,6 +4,8 @@
 [![Dev.to][dev.to-shield]][dev.to-url]
 [![Discord][discord-shield]][discord-url]
 
+<img src="https://ssr-contributions-svg.vercel.app/_/criskell?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=2&animation=wave&animation_duration=3.5&animation_delay=0.13&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=14_0&format=svg&weeks=30&theme=dark_green" alt="Contributions chart in 3D" />
+
 I'm a 19-year-old software developer with expertise in the PHP and JS realms, including:
 
 - Laravel
@@ -32,4 +34,3 @@ My goal is to make significant contributions through code and writing, benefitin
 </span>
 -->
 
-<img src="https://ssr-contributions-svg.vercel.app/_/criskell?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=3&animation_delay=0.03&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=19_3&format=svg&weeks=40" alt="Contributions chart in 3D" />
