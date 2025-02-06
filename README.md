@@ -7,12 +7,13 @@
 I'm a 19-year-old software developer with expertise in the PHP and JS realms, including:
 
 - Laravel
-- WooCommerce and WordPress
-- Magento 1 and 2
-- NodeJS
-- React, Relay, Next.js
-- MongoDB
-- NextUI, MUI
+- WooCommerce and WordPress, Magento
+- Node, GraphQL, Rest & Realtime APIs
+- React and Next.js, NextUI, MUI
+- MongoDB, PostgreSQL, MySQL
+- Haskell
+- Rust
+- C++
 
 Inspired by Richard Feynman's philosophy of "What I cannot create, I do not understand," I enjoy recreating technologies from scratch as a hobby, delving into their inner workings to gain a deeper understanding.
 
@@ -24,8 +25,6 @@ My goal is to make significant contributions through code and writing, benefitin
 [dev.to-url]: https://dev.to/criskell
 [discord-shield]: https://img.shields.io/badge/-criskell-black.svg?style=flat-square&logo=discord&logoColor=white&colorB=5865F2
 [discord-url]: https://discord.com/users/932741852514369607
-
-<img src="https://ssr-contributions-svg.vercel.app/_/criskell?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=2&animation=wave&animation_duration=3.5&animation_delay=0.13&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=14_0&format=svg&weeks=30&theme=dark_green" alt="Contributions chart in 3D" />
 
 <!--
 <span>
