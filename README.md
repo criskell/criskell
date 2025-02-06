@@ -11,9 +11,8 @@ I'm a 19-year-old software developer with expertise in the PHP and JS realms, in
 - Node, GraphQL, Rest & Realtime APIs
 - React and Next.js, NextUI, MUI
 - MongoDB, PostgreSQL, MySQL
-- Haskell
-- Rust
-- C++
+- FP languages: Elixir and Haskell
+- System languages: Rust and C++
 
 Inspired by Richard Feynman's philosophy of "What I cannot create, I do not understand," I enjoy recreating technologies from scratch as a hobby, delving into their inner workings to gain a deeper understanding.
 
