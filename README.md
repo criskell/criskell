@@ -7,6 +7,7 @@
 I'm a 20-year-old software developer with expertise in the PHP and JS realms, including:
 
 - Laravel
+- Java, Spring Boot
 - WooCommerce and WordPress, Magento
 - Node, GraphQL, Rest & Realtime APIs
 - React and Next.js, HeroUI, MUI
