@@ -10,10 +10,10 @@ I'm a 20-year-old software developer with expertise in the PHP and JS realms, in
 - Java, Spring Boot
 - WooCommerce and WordPress, Magento
 - Node, GraphQL, Rest & Realtime APIs
-- React and Next.js, HeroUI, MUI
 - MongoDB, PostgreSQL, MySQL
 - System languages: Rust and C++
 - FP languages: Elixir, Haskell
+- React and Next.js, HeroUI, MUI
 
 Inspired by Richard Feynman's philosophy of "What I cannot create, I do not understand," I enjoy recreating technologies from scratch as a hobby, delving into their inner workings to gain a deeper understanding.
 
