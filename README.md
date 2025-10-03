@@ -4,7 +4,7 @@
 [![Dev.to][dev.to-shield]][dev.to-url]
 [![Discord][discord-shield]][discord-url]
 
-I'm a 20-year-old software developer with expertise in the PHP and JS realms, including:
+I'm a 20-year-old software developer with experience in PHP and JS, including:
 
 - Laravel
 - Java, Spring
