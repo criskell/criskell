@@ -4,16 +4,7 @@
 [![Dev.to][dev.to-shield]][dev.to-url]
 [![Discord][discord-shield]][discord-url]
 
-I'm a 20-year-old software developer with experience in PHP and JS, including:
-
-- Laravel
-- Java, Spring
-- WooCommerce and WordPress, Magento
-- Node, GraphQL, Rest & Realtime APIs
-- MongoDB, PostgreSQL, MySQL
-- System languages: Rust and C++
-- FP languages: Elixir, Haskell
-- React and Next.js, HeroUI, MUI
+I'm a 20-year-old software developer with experience in PHP and JS.
 
 Inspired by Richard Feynman's philosophy of "What I cannot create, I do not understand," I enjoy recreating technologies from scratch as a hobby, delving into their inner workings to gain a deeper understanding.
 
