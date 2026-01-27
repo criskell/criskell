@@ -10,6 +10,8 @@ Inspired by Richard Feynman's philosophy of "What I cannot create, I do not unde
 
 My goal is to make significant contributions through code and writing, benefiting both my clients and the broader community.
 
+*"For of Him, and through Him, and to Him, are all things: to whom be glory for ever. Amen." (Romans 11:36, KJV)*
+
 [linkedin-shield]: https://img.shields.io/badge/-crismoraesds-black.svg?style=flat-square&logo=linkedin&logoColor=white&colorB=0077b5
 [linkedin-url]: https://linkedin.com/in/crismoraesds/
 [dev.to-shield]: https://img.shields.io/badge/-criskell-black.svg?style=flat-square&logo=dev.to&logoColor=white&colorB=000000
